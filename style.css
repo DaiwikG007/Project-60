@@ -1,0 +1,103 @@
+#welcome{
+  text-align: center;
+  background:linear-gradient(#64B5F6 0%, #4CAF50 100%);
+}
+#h1{
+  font-size:40px;
+}
+#about{
+  padding:20px;
+  font-size:25px;
+  text-align:center;
+}
+#profile{
+    margin-top: 70px;
+  border-radius:50%; 
+  height:200px;
+  width:200px;
+}
+#ww{
+  font-size:40px;
+ font-family: 'Merriweather', serif;
+}
+#p{
+  font-family:roboto;
+    color: darkblue;
+    
+}
+#welcome{
+    height:500px;
+}
+.menu{
+    list-style: none;
+    position: absolute;
+    cursor: pointer;
+    top: 10px;
+    right: 30px;
+    z-index: 10px;   
+}
+.links{
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 20px;
+    font-family:cursive;
+    text-decoration-color:red;
+    font-weight: 1000;
+}
+.links:hover{
+    background-color:greenyellow;}
+    
+    html{
+        scroll-behavior: smooth;
+    }
+.line{
+    background-color: black;
+        width:200px;
+        height: 4px;
+        margin: auto;
+    }
+#bumrah{
+width: 300px;
+height: 330px;
+}
+#mfp{
+    text-align: center;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+}
+#work{
+    text-align: center;
+    font-size: 30px;
+}
+#wee{
+    font-size: 70px;
+}
+#collage{
+    width: 1300px;
+    height: 800px;
+}
+
+.pl{
+    width: 500px;
+    height: 500px;
+    margin-top: 20px;
+    transition: transform .2s;
+    border: 4px solid #000000;
+}
+
+#inspiration{
+    text-align: center;
+    font-size: 40px;
+}
+
+.pl:hover{
+transform: scale(0.9);
+}
+#q{
+    font-size: 70px;
+}
